@@ -22,10 +22,7 @@ A completely different way to research it is when you see each approach to BCI a
 Then, you map each approach to its physics theoretical framework. 
 You use the latest, best versions of those physics theories, and you compare them against our today’s implementations 
 in engineering, and you find something you can improve in today’s implementations to achieve a better functionality from 
-a distance. This requires physics (theoretical), then suggestion of what you would improve is a hypothesis, and finally 
-experimental physics to test your suggestion in isolation, in a lab, and finally you would recommend to engineers 
-to next time use your findings while building that type of BCI, and the result will then have a better capability 
-for working from a distance.
+a distance. This requires physics (theoretical), then a suggestion of what you would improve is your hypothesis, and finally experimental physics to test your suggestion in isolation, in a lab, and finally you would recommend to engineers to next time use your findings while building that type of BCI, and the result will then have a better capability for working from a distance.
 
 # Literature review
 

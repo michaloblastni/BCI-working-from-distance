@@ -1,4 +1,6 @@
 # Extending a BCI to work from a distance without wearing anything.
+TODO: https://www.quora.com/Which-intelligence-agency-has-its-dedicated-research-lab-that-does-research-without-disclosing-their-findings-tools-weapons-to-the-public-Which-intelligence-agency-is-known-to-accumulate-a-competitive-advantage-by
+
 Before a research, there is a literature review of the current state of the art.
 Then, you come up with a research question.
 

@@ -1,4 +1,6 @@
-# Extending a BCI to work from a distance without wearing anything.
+# Extending BCI (i.e. EEG-based or other) to work from a distance without wearing anything.
+https://www.researchgate.net/publication/236191317_A_capacitive_biocompatible_and_adhesive_electrode_for_long-term_and_cap-free_monitoring_of_EEG_signals
+
 TODO: https://www.quora.com/Which-intelligence-agency-has-its-dedicated-research-lab-that-does-research-without-disclosing-their-findings-tools-weapons-to-the-public-Which-intelligence-agency-is-known-to-accumulate-a-competitive-advantage-by
 
 Before a research, there is a literature review of the current state of the art.

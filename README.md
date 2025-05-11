@@ -13,7 +13,7 @@ In applied research, we basically review literature for past solutions.
 Then, we synthesize them into a new solution that brings us at least a little bit closer to the goal.
 Next, we extend the new solution with our own knowledge, build it, evaluate it against the problem, publish it.
 
-In this specific case, cellular signaling has multiple types including electric. Electricity in cell can be sensed by connecting a wire, amplifying the 
+In this specific case, cellular signaling has multiple types including electric. Electricity in cells can be sensed by connecting a wire, amplifying the 
 measured signal, and converting it from analog to digital. Alternatively, magnetic field can be measured. This is the electromagnetic theory.
 There are additional, more experimental approaches that include functional ultrasound. Other approaches need to be reviewed.
 

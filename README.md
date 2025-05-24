@@ -20,6 +20,7 @@ measured signal, and converting it from analog to digital. Alternatively, magnet
 There are additional, more experimental approaches that include functional ultrasound. Other approaches need to be reviewed.
 
 # Literature review
+Synthesize mechanisms (e.g., electric field coupling, magnetic detection, quantum sensors) that show promise for distance-based sensing of cellular signaling.
 
 # Findings
 

@@ -5,6 +5,8 @@ https://www.nature.com/articles/srep36508
 
 https://arxiv.org/vc/arxiv/papers/1012/1012.3371v1.pdf
 
+https://www.researchgate.net/publication/41896139_Biophotons_as_neural_communication_signals_demonstrated_by_in_situ_biophoton_autography
+
 TODO: https://www.quora.com/Which-intelligence-agency-has-its-dedicated-research-lab-that-does-research-without-disclosing-their-findings-tools-weapons-to-the-public-Which-intelligence-agency-is-known-to-accumulate-a-competitive-advantage-by
 
 Before a research, there is a literature review of the current state of the art.

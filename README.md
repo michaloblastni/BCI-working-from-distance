@@ -1,9 +1,9 @@
 # Extending BCI (i.e. EEG-based or other) to work from a distance without wearing anything.
 https://www.researchgate.net/publication/236191317_A_capacitive_biocompatible_and_adhesive_electrode_for_long-term_and_cap-free_monitoring_of_EEG_signals
 
-https://medicalxpress.com/news/2025-06-scientists-entire-human-doors-brain.html
-
 https://www.nature.com/articles/srep36508
+
+https://arxiv.org/vc/arxiv/papers/1012/1012.3371v1.pdf
 
 TODO: https://www.quora.com/Which-intelligence-agency-has-its-dedicated-research-lab-that-does-research-without-disclosing-their-findings-tools-weapons-to-the-public-Which-intelligence-agency-is-known-to-accumulate-a-competitive-advantage-by
 

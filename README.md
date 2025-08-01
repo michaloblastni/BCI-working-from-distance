@@ -23,14 +23,19 @@ In applied research, we basically review literature for past solutions.
 Then, we synthesize them into a new solution that brings us at least a little bit closer to the goal.
 Next, we extend the new solution with our own knowledge, build it, evaluate it against the problem, publish it.
 
-In this specific case, cellular signaling has multiple types including electric. Electricity in cells can be sensed by connecting a wire, amplifying the 
-measured signal, and converting it from analog to digital. Alternatively, magnetic field can be measured. This is the electromagnetic theory.
-There are additional, more experimental approaches that include functional ultrasound. Other approaches need to be reviewed.
+# Systematic Literature review
+The goal is to identify hypotheses for researching a new type of signal that can sense or stimulate neural activity from a distance.
 
-# Literature review
-Synthesize mechanisms (e.g., electric field coupling, magnetic detection, quantum sensors) that show promise for distance-based sensing of cellular signaling.
+Develop inclusion/exclusion criteria for identifying all literature to date in a particular database, or in multiple databases. 
+The criteria will include i.e. the use of some type of signal from a distance for sensing or stimulating neural activity.
+The work could be experimentally evaluated in mice, rats, or other mammals (incl. people).
 
-# Findings
+# Preliminary findings
+1. Cellular signaling has multiple types including electric. Electricity in cells can be sensed by connecting a wire, amplifying the 
+measured signal, and converting it from analog to digital. Electricity in cells can be also stimulated by attaching a wire and sensing some voltage.
+Alternatively, magnetic field can be measured or created to sense or stimulate cells. This is the electromagnetic theory.
+
+2. There are additional, more experimental approaches that include functional ultrasound to sense cellular activity. Cellular signalling can be also photonic. Other approaches need to be reviewed.
 
 # Evaluation
 

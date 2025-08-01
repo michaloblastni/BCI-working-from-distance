@@ -24,7 +24,7 @@ Then, we synthesize them into a new solution that brings us at least a little bi
 Next, we extend the new solution with our own knowledge, build it, evaluate it against the problem, publish it.
 
 # Systematic literature review
-The goal is to identify hypotheses for researching a new type of signal that can sense or stimulate neural activity from a distance.
+The goal is to identify existing external signals that can remotely interact with neural tissue to either sense or stimulate neural activity from a distance.
 
 Develop inclusion/exclusion criteria for identifying all literature to date in a particular database, or in multiple databases. 
 The criteria will include i.e. the use of some type of signal from a distance for sensing or stimulating neural activity.
@@ -33,11 +33,11 @@ The work could be experimentally evaluated in mice, rats, or other mammals (incl
 At the very least, this systematic literature review will identify promising approaches for further investigation.
 
 # Preliminary findings
-1. Cellular signaling has multiple types including electric. Electricity in cells can be sensed by connecting a wire, amplifying the 
-measured signal, and converting it from analog to digital. Electricity in cells can be also stimulated by attaching a wire and sensing some voltage.
-Alternatively, magnetic field can be measured or created to sense or stimulate cells. This is the electromagnetic theory.
-
-2. There are additional, more experimental approaches that include functional ultrasound to sense cellular activity. Cellular signalling can be also photonic. Other approaches need to be reviewed.
+1. Cellular signaling has multiple types including electric, photonic, chemical, and other.
+2. Based on the electromagnetic theory, electricity in cells can be sensed by attaching a wire, amplifying the measured voltage from microvolts to millivolts, and converting millivolts from analog to digital (EEG). Electricity in cells can be also stimulated by attaching a wire and sending some voltage (electric stimulation). Alternatively, magnetic field can be measured (fMRI) sense neural activity or created (TMS) to stimulate neural activity. 
+3. Based on acoustic theory, functional ultrasound can sense cellular activity from a small distance.
+4. Based on photonic theory, cellular signalling can be both sensed and stimulated from a distance, but it is currently limited to a short distance because light must penetrate tissue.
+5. Other approaches need to be identified and reviewed.
 
 The systematic literature review still needs to be designed and carried out by following an established methodology.
 

@@ -30,6 +30,9 @@ Develop inclusion/exclusion criteria for identifying all literature to date in a
 The criteria will include i.e. the use of some type of signal from a distance for sensing or stimulating neural activity.
 The work could be experimentally evaluated in mice, rats, or other mammals (incl. people).
 
+**Drafted criteria: ("non-invasive" OR "remote" OR "wireless") AND (neural OR brain OR neuronal OR cellular) AND (stimulation OR neuromodulation OR sensing OR measurement) AND (magnetic OR ultrasound OR acoustic OR optical OR photon OR quantum OR biophoton OR magnetoelectric OR magnetogenetics OR sonogenetics)**
+
+
 At the very least, this systematic literature review will identify promising approaches for further investigation.
 
 # Preliminary findings

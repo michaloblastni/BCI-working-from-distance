@@ -34,7 +34,7 @@ At the very least, this systematic literature review will identify promising app
 
 # Preliminary findings
 1. Cellular signaling has multiple types including electric, photonic, chemical, and other.
-2. Based on the electromagnetic theory, electricity in cells can be sensed by attaching a wire, amplifying the measured voltage from microvolts to millivolts, and converting millivolts from analog to digital (EEG). Electricity in cells can be also stimulated by attaching a wire and sending some voltage (electric stimulation). Alternatively, magnetic field can be measured (fMRI) sense neural activity or created (TMS) to stimulate neural activity. 
+2. Based on the electromagnetic theory, electricity in cells can be sensed by attaching a wire, amplifying the measured voltage from microvolts to millivolts, and converting millivolts from analog to digital (EEG). Electricity in cells can be also stimulated by attaching a wire and sending some voltage (electric stimulation). Alternatively, magnetic field can be measured (fMRI, quantum sensors) to sense neural activity or created (TMS) to stimulate neural activity. 
 3. Based on acoustic theory, functional ultrasound can sense cellular activity from a small distance.
 4. Based on photonic theory, cellular signalling can be both sensed and stimulated from a distance, but it is currently limited to a short distance because light must penetrate tissue.
 5. Other approaches need to be identified and reviewed.

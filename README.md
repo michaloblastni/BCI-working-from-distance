@@ -1,4 +1,4 @@
-# Extending BCI (i.e. EEG-based or other) to work from a distance without wearing anything.
+# Researching a new type of signal that can stimulate or sense neural activity from a distance without wearing anything
 https://www.researchgate.net/publication/236191317_A_capacitive_biocompatible_and_adhesive_electrode_for_long-term_and_cap-free_monitoring_of_EEG_signals
 
 https://www.nature.com/articles/srep36508
@@ -15,7 +15,7 @@ Before a research, there is a literature review of the current state of the art.
 Then, you come up with a research question.
 
 ## Research question
-How can cellular signaling be non-invasively sensed from a distance without requiring anything worn by the user?
+What type of signal can non-invasively stimulate or sense cellular signaling from a distance without requiring anything worn by the user?
 
 # Method (TODO: choose one based on a literature review)
 This is a practical problem. Hence, it is applied research. 
@@ -30,12 +30,16 @@ Develop inclusion/exclusion criteria for identifying all literature to date in a
 The criteria will include i.e. the use of some type of signal from a distance for sensing or stimulating neural activity.
 The work could be experimentally evaluated in mice, rats, or other mammals (incl. people).
 
+At the very least, this systematic literature review will identify promising approaches for further investigation.
+
 # Preliminary findings
 1. Cellular signaling has multiple types including electric. Electricity in cells can be sensed by connecting a wire, amplifying the 
 measured signal, and converting it from analog to digital. Electricity in cells can be also stimulated by attaching a wire and sensing some voltage.
 Alternatively, magnetic field can be measured or created to sense or stimulate cells. This is the electromagnetic theory.
 
 2. There are additional, more experimental approaches that include functional ultrasound to sense cellular activity. Cellular signalling can be also photonic. Other approaches need to be reviewed.
+
+The systematic literature review still needs to be designed and carried out by following an established methodology.
 
 # Evaluation
 

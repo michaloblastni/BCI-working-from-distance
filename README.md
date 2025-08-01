@@ -23,7 +23,7 @@ In applied research, we basically review literature for past solutions.
 Then, we synthesize them into a new solution that brings us at least a little bit closer to the goal.
 Next, we extend the new solution with our own knowledge, build it, evaluate it against the problem, publish it.
 
-# Systematic Literature Review
+# Systematic literature review
 The goal is to identify hypotheses for researching a new type of signal that can sense or stimulate neural activity from a distance.
 
 Develop inclusion/exclusion criteria for identifying all literature to date in a particular database, or in multiple databases. 

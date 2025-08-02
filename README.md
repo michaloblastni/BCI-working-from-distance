@@ -30,15 +30,28 @@ Develop inclusion/exclusion criteria for identifying all literature to date in a
 The criteria will include i.e. the use of some type of signal from a distance for sensing or stimulating neural activity.
 The work could be experimentally evaluated in mice, rats, or other mammals (incl. people).
 
-**Drafted criteria: ("non-invasive" OR "remote" OR "wireless") AND (neural OR brain OR neuronal OR cellular) AND (stimulation OR neuromodulation OR sensing OR measurement) AND (magnetic OR ultrasound OR acoustic OR optical OR photon OR quantum OR biophoton OR magnetoelectric OR magnetogenetics OR sonogenetics)**
+**Keywords for SLR:** ("non-invasive" OR "remote" OR "wireless") AND (neural OR brain OR neuronal OR cellular) AND (stimulation OR neuromodulation OR sensing OR measurement) AND (magnetic OR ultrasound OR acoustic OR optical OR photon OR quantum OR biophoton OR magnetoelectric OR magnetogenetics OR sonogenetics)
 
+## Inclusion criteria
+  1. Signal modality – the study uses a physical signal (magnetic, electric, acoustic, optical, etc.) capable of penetrating tissue and interacting with cellular/neural signalling.
+
+  2. Non‑invasive & remote – stimulation or sensing is achieved without implanting devices in the brain or requiring the user to wear electrodes; signals may originate from outside the body or via injected agents that transduce the signal inside tissue.
+
+  3. Experimental evidence or credible theoretical proposal – the work contains experimental demonstrations (in vitro, in vivo or human) or well‑founded theoretical models supporting the mechanism.
+
+  4. Peer‑reviewed articles or credible pre‑prints – patents were excluded except to verify conceptual claims.
+
+## Exclusion criteria
+1. Purely hypothetical or speculative proposals without experimental data or theoretical modelling were excluded.
+
+2. Patents and unverified claims were excluded unless accompanying peer‑reviewed evidence was available.
 
 At the very least, this systematic literature review will identify promising approaches for further investigation.
 
 # Preliminary findings
 1. Cellular signaling has multiple types including electric, photonic, chemical, and other.
-2. Based on the electromagnetic theory, electricity in cells can be sensed by attaching a wire, amplifying the measured voltage from microvolts to millivolts, and converting millivolts from analog to digital (EEG). Electricity in cells can be also stimulated by attaching a wire and sending some voltage (electric stimulation). Alternatively, magnetic field can be measured (fMRI, quantum sensors) to sense neural activity or created (TMS) to stimulate neural activity. 
-3. Based on acoustic theory, functional ultrasound can sense cellular activity from a small distance.
+2. Based on the electromagnetic theory, electricity in cells can be sensed by attaching a wire, amplifying the measured voltage from microvolts to millivolts, and converting millivolts from analog to digital (EEG). Electricity in cells can be also stimulated by attaching a wire and sending some voltage (electric stimulation). Alternatively, magnetic field can be measured (fMRI, quantum diamond magnetometers) to sense neural activity or created (TMS) to stimulate neural activity. 
+3. Based on acoustic theory, functional ultrasound can sense cellular activity from a small distance and also stimulate cellular activity.
 4. Based on photonic theory, cellular signalling can be both sensed and stimulated from a distance, but it is currently limited to a short distance because light must penetrate tissue.
 5. Other approaches need to be identified and reviewed.
 

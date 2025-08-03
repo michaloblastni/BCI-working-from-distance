@@ -11,7 +11,7 @@ https://ieeexplore.ieee.org/document/8656923
 
 TODO: https://www.quora.com/Which-intelligence-agency-has-its-dedicated-research-lab-that-does-research-without-disclosing-their-findings-tools-weapons-to-the-public-Which-intelligence-agency-is-known-to-accumulate-a-competitive-advantage-by
 
-Before a research, there is a literature review of the current state of the art.
+Before a research, there is a systematic literature review of the current state of the art.
 Then, you come up with a research question.
 
 ## Research question
